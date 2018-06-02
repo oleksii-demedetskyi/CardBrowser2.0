@@ -1,0 +1,3 @@
+[submodule "Moscapsule"]
+	path = Moscapsule
+	url = https://github.com/flightonary/Moscapsule.git
